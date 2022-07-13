@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "hettx",
+    "oncran": true
+  }
+]
